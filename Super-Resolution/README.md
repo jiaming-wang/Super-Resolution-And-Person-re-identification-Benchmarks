@@ -78,7 +78,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |SIDD(M)|Train/Val|200|[website](https://www.eecs.yorku.ca/~kamel/sidd/)|NTIRE 2019 Real Denoise|
 |RSR|Train/Val|80|[download]()|NTIRE 2019 Real SR|
 |Vimeo-90k|Train/Test|89800|[website](http://toflow.csail.mit.edu/)|90k HQ videos|
-|General-100|Test|100|[website](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html/)|General-100|
+|General-100|Test|100|[website](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html/)|Chao Dong|
 
 Other open datasets:
 [Kaggle](https://www.kaggle.com/datasets),[ImageNet](http://www.image-net.org/),[COCO](http://cocodataset.org/)
