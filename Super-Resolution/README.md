@@ -29,7 +29,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |FRVSR|[CVPR18](https://arxiv.org/abs/1801.04590)|[PDF](https://github.com/msmsajjadi/FRVSR)| VideoSR |
 |DUF|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf)|[Tensorflow](https://github.com/yhjo09/VSR-DUF)| VideoSR |
 |SRN|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tao_Scale-Recurrent_Network_for_CVPR_2018_paper.pdf)|[Tensorflow](https://github.com/cgtuebingen/learning-blind-motion-deblurring)| Deblur |
-|SRN|[CVPR18](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)|[PyTorch](https://github.com/DmitryUlyanov/deep-image-prior)| Learning-free |
+|DIP|[CVPR18](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)|[PyTorch](https://github.com/DmitryUlyanov/deep-image-prior)| Learning-free |
 |CARN|[ECCV18](https://arxiv.org/abs/1803.08664)|[PyTorch](https://github.com/nmhkahn/CARN-pytorch)| Fast |
 |RCAN|[ECCV18](https://arxiv.org/abs/1807.02758)|[PyTorch](https://github.com/yulunzhang/RCAN)| Deep, BI-BD-DN |
 |MSRN|[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/MIVRC/MSRN-PyTorch)| |
