@@ -45,7 +45,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |ESRGAN|[ECCVW18](http://arxiv.org/abs/1809.00219)|[PyTorch](https://github.com/xinntao/ESRGAN)|1st place PIRM 2018|
 |TecoGAN|[arXiv](http://arxiv.org/abs/1811.09393)|[Tensorflow](https://github.com/thunil/TecoGAN)| VideoSR GAN|
 |RBPN|[CVPR19](https://arxiv.org/abs/1903.10128)|[PyTorch](https://github.com/alterzero/RBPN-PyTorch)| VideoSR |
-|FSTRN|[CVPR19](https://arxiv.org/pdf/1904.02870.pdf)|-| fast VideoSR |
+|FSTRN|[CVPR19](https://arxiv.org/pdf/1904.02870.pdf)|-| Fast VideoSR |
 |Meta-RDN|[CVPR19](https://arxiv.org/pdf/1903.00875.pdf)|-| Meta SR |
 |SRFBN|[CVPR19](https://arxiv.org/pdf/1903.09814.pdf)|[PyTorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback |
 |PASSRnet|[CVPR19](https://arxiv.org/pdf/1903.05784.pdf)|[PyTorch](https://github.com/LongguangWang/PASSRnet)| Parallax-attention |
