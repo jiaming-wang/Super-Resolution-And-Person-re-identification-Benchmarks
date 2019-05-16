@@ -79,8 +79,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Vimeo-90k|Train/Test|89800|[website](http://toflow.csail.mit.edu/)|90k HQ videos|
 
 Other open datasets:
-[Kaggle](https://www.kaggle.com/datasets)
-
-[ImageNet](http://www.image-net.org/)
-
-[COCO](http://cocodataset.org/)
+[Kaggle](https://www.kaggle.com/datasets),[ImageNet](http://www.image-net.org/),[COCO](http://cocodataset.org/)
