@@ -8,6 +8,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |:-----|:---------|:-----|:-------|
 |SRCNN|[ECCV14](https://arxiv.org/abs/1501.00092)|[Keras](https://github.com/qobilidop/srcnn)| 1st DL SR |
 |RAISR|[arXiv](https://arxiv.org/abs/1606.01299)|-|| Google, Pixel 3 |
+|SelfExSR|[CVPR15](http://vision.ai.illinois.edu/publications/huangcvpr2015.pdf)|-|[Matlab](https://github.com/jiaming-wang/Personal-Summarize/tree/master/Matlab-code/SelfExSR)| Without training data |
 |ESPCN|[CVPR16](https://arxiv.org/abs/1609.05158)|[Keras](https://github.com/qobilidop/srcnn)| Real time |
 |VDSR|[CVPR16](https://arxiv.org/abs/1511.04587)|[Caffe](https://github.com/huangzehao/caffe-vdsr)| Deep, Residual |
 |DRCN|[CVPR16](https://arxiv.org/abs/1511.04491)|-| Recurrent ||
