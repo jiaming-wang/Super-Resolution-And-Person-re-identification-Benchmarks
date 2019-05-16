@@ -11,6 +11,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |ESPCN|[CVPR16](https://arxiv.org/abs/1609.05158)|[Keras](https://github.com/qobilidop/srcnn)| Real time |
 |VDSR|[CVPR16](https://arxiv.org/abs/1511.04587)|[Caffe](https://github.com/huangzehao/caffe-vdsr)| Deep, Residual |
 |DRCN|[CVPR16](https://arxiv.org/abs/1511.04491)|-| Recurrent ||
+|PLSR|[ECCV16](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)|[Torch](https://github.com/jcjohnson/fast-neural-style)| 1st Perceptual Loss ||
 |DRRN|[CVPR17](http://cvlab.cse.msu.edu/pdfs/Tai_Yang_Liu_CVPR2017.pdf)|[Caffe](https://github.com/tyshiwo/DRRN_CVPR17), [PyTorch](https://github.com/jt827859032/DRRN-pytorch)| Recurrent |
 |LapSRN|[CVPR17](http://vllab.ucmerced.edu/wlai24/LapSRN/)|[Matlab](https://github.com/phoenix104104/LapSRN)| Huber loss |
 |EDSR|[CVPR17](https://arxiv.org/abs/1707.02921)|[PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch)| NTIRE17 Champion |
@@ -77,7 +78,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |SIDD(M)|Train/Val|200|[website](https://www.eecs.yorku.ca/~kamel/sidd/)|NTIRE 2019 Real Denoise|
 |RSR|Train/Val|80|[download]()|NTIRE 2019 Real SR|
 |Vimeo-90k|Train/Test|89800|[website](http://toflow.csail.mit.edu/)|90k HQ videos|
-|General-100|-|-|[website](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html/)|General-100|
+|General-100|Test|100|[website](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html/)|General-100|
 
 Other open datasets:
 [Kaggle](https://www.kaggle.com/datasets),[ImageNet](http://www.image-net.org/),[COCO](http://cocodataset.org/)
