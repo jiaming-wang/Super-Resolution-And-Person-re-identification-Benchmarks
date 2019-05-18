@@ -20,7 +20,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation (VESPCN)|[CVPR17](https://arxiv.org/abs/1611.05250)|-| VideoSR |
 |MemNet: A Persistent Memory Network for Image Restoration (MemNet)|[ICCV17](https://arxiv.org/abs/1708.02209)|[Caffe](https://github.com/tyshiwo/MemNet)||
 |Image Super-Resolution Using Dense Skip Connections (SRDenseNet)|[ICCV17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)|[PyTorch](https://github.com/wxywhu/SRDenseNet-pytorch)| Dense |
-|Single Image Super-Resolution Through Automated Texture Synthesis (EnhanceNet )|[ICCV17](https://webdav.tue.mpg.de/pixel/enhancenet/files/EnhanceNet_paper.pdf)|-| Texture Synthesis |
+|Single Image Super-Resolution Through Automated Texture Synthesis (EnhanceNet)|[ICCV17](https://webdav.tue.mpg.de/pixel/enhancenet/files/EnhanceNet_paper.pdf)|-| Texture Synthesis |
 |Detail-revealing Deep Video Super-resolution (SPMC)|[ICCV17](https://arxiv.org/abs/1704.02738)|[Tensorflow](https://github.com/jiangsutx/SPMC_VideoSR)| VideoSR |
 |Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising (DnCNN)|[TIP17](http://ieeexplore.ieee.org/document/7839189/)|[Matlab](https://github.com/cszn/DnCNN)| Denoise |
 |Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network (DCSCN)|[arXiv](https://arxiv.org/abs/1707.05425)|[Tensorflow](https://github.com/jiny2001/dcscn-super-resolution)||
@@ -29,10 +29,10 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Learning a Single Convolutional Super-Resolution Network for Multiple Degradations (SRMD)|[CVPR18](https://arxiv.org/abs/1712.06116)|[Matlab](https://github.com/cszn/SRMD)| Denoise/Deblur/SR |
 |Deep Back-Projection Networks For Super-Resolution (DBPN)|[CVPR18](https://arxiv.org/abs/1803.02735)|[PyTorch](https://github.com/alterzero/DBPN-Pytorch)| NTIRE18 Champion |
 |"Zero Shot" Super-Resolution using Deep Internal Learning (ZSSR)|[CVPR18](http://www.wisdom.weizmann.ac.il/~vision/zssr/)|[Tensorflow](https://github.com/assafshocher/ZSSR)| Zero-shot |
-|Frame-Recurrent Video Super-Resolution (FRVSR)|[CVPR18](https://arxiv.org/abs/1801.04590)|[PDF](https://github.com/msmsajjadi/FRVSR)| VideoSR |
+|Frame-Recurrent Video Super-Resolution (FRVSR)|[CVPR18](https://arxiv.org/abs/1801.04590)|[youtube-dl](https://github.com/msmsajjadi/FRVSR)| VideoSR |
 |Deep Video Super-Resolution Network Using Dynamic Upsampling Filters Without Explicit Motion Compensation (DUF)|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Jo_Deep_Video_Super-Resolution_CVPR_2018_paper.pdf)|[Tensorflow](https://github.com/yhjo09/VSR-DUF)| VideoSR |
 |Scale-recurrent Network for Deep Image Deblurring (SRN)|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tao_Scale-Recurrent_Network_for_CVPR_2018_paper.pdf)|[Tensorflow](https://github.com/cgtuebingen/learning-blind-motion-deblurring)| Deblur |
-|Deep Image Prior(DIP)|[CVPR18](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)|[PyTorch](https://github.com/DmitryUlyanov/deep-image-prior)| Learning-free |
+|Deep Image Prior (DIP)|[CVPR18](https://sites.skoltech.ru/app/data/uploads/sites/25/2018/04/deep_image_prior.pdf)|[PyTorch](https://github.com/DmitryUlyanov/deep-image-prior)| Learning-free |
 |Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network (CARN)|[ECCV18](https://arxiv.org/abs/1803.08664)|[PyTorch](https://github.com/nmhkahn/CARN-pytorch)| Fast |
 |Image Super-Resolution Using Very Deep Residual Channel Attention Networks (RCAN)|[ECCV18](https://arxiv.org/abs/1807.02758)|[PyTorch](https://github.com/yulunzhang/RCAN)| Deep, BI-BD-DN |
 |CrossNet: An End-to-end Reference-based Super Resolution Network using Cross-scale Warping (CrossNet)|[ECCV18](http://www.liuyebin.com/CrossNet/CrossNet.pdf)| [PyTorch](https://github.com/htzheng/ECCV2018_CrossNet_RefSR) | Cross |
