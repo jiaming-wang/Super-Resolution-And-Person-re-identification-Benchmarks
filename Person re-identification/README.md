@@ -7,6 +7,8 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
 |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| |
+|Beyond Part Models:Person Retrieval with Refined Part Pooling |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/layumi/Person_reID_baseline_pytorch)| part-level |
+|Person Transfer GAN to Bridge Domain Gap for Person Re-Identification|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)|[Tensorflow](https://github.com/JoinWei-PKU/PTGAN)| |、
 |Group Consistent Similarity Learning via Deep CRF for Person Re-Identification|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Group_Consistent_Similarity_CVPR_2018_paper.pdf)|-| |、
 |Deep Spatial Feature Reconstruction for Partial Person Re-Identification: Alignment-Free Approach|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/He_Deep_Spatial_Feature_CVPR_2018_paper.pdf)|-| |
 |Resource Aware Person Re-Identification Across Multiple Resolutions|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Resource_Aware_Person_CVPR_2018_paper.pdf)|-| |
