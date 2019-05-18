@@ -35,20 +35,20 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Fast, Accurate, and Lightweight Super-Resolution with Cascading Residual Network (CARN)|[ECCV18](https://arxiv.org/abs/1803.08664)|[PyTorch](https://github.com/nmhkahn/CARN-pytorch)| Fast |
 |Image Super-Resolution Using Very Deep Residual Channel Attention Networks (RCAN)|[ECCV18](https://arxiv.org/abs/1807.02758)|[PyTorch](https://github.com/yulunzhang/RCAN)| Deep, BI-BD-DN |
 |Multi-scale Residual Network for Image Super-Resolution (MSRN)|[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Juncheng_Li_Multi-scale_Residual_Network_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/MIVRC/MSRN-PyTorch)| |
-|SRFeat|[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf)|[Tensorflow](https://github.com/HyeongseokSon1/SRFeat)| GAN |
-|NLRN|[NIPS18](https://papers.nips.cc/paper/7439-non-local-recurrent-network-for-image-restoration.pdf)|[Tensorflow](https://github.com/Ding-Liu/NLRN)| Non-local, Recurrent |
-|SRCliqueNet|[NIPS18](https://arxiv.org/abs/1809.04508)|-| Wavelet |
-|FFDNet|[TIP18](https://ieeexplore.ieee.org/document/8365806/)|[Matlab](https://github.com/cszn/FFDNet)| Conditional denoise|
-|MMCNN|[TIP18](https://ieeexplore.ieee.org/document/8579237/)|[Tensorflow](https://github.com/psychopa4/MMCNN)| Multi-Memory CNN|
-|CBDNet|[arXiv](https://arxiv.org/abs/1807.04686)|[Matlab](https://github.com/GuoShi28/CBDNet)| Blind-denoise |
-|SOFVSR|[ACCV18](http://arxiv.org/abs/1809.08573)|[PyTorch](https://github.com/LongguangWang/SOF-VSR)| VideoSR |
-|ESRGAN|[ECCVW18](http://arxiv.org/abs/1809.00219)|[PyTorch](https://github.com/xinntao/ESRGAN)|1st place PIRM 2018|
-|TecoGAN|[arXiv](http://arxiv.org/abs/1811.09393)|[Tensorflow](https://github.com/thunil/TecoGAN)| VideoSR GAN|
-|RBPN|[CVPR19](https://arxiv.org/abs/1903.10128)|[PyTorch](https://github.com/alterzero/RBPN-PyTorch)| VideoSR |
-|FSTRN|[CVPR19](https://arxiv.org/pdf/1904.02870.pdf)|-| Fast VideoSR |
-|Meta-RDN|[CVPR19](https://arxiv.org/pdf/1903.00875.pdf)|-| Meta SR |
-|SRFBN|[CVPR19](https://arxiv.org/pdf/1903.09814.pdf)|[PyTorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback |
-|PASSRnet|[CVPR19](https://arxiv.org/pdf/1903.05784.pdf)|[PyTorch](https://github.com/LongguangWang/PASSRnet)| Parallax-attention |
+|SRFeat: Single Image Super-Resolution with Feature Discrimination (SRFeat)|[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Seong-Jin_Park_SRFeat_Single_Image_ECCV_2018_paper.pdf)|[Tensorflow](https://github.com/HyeongseokSon1/SRFeat)| GAN |
+|Non-Local Recurrent Network for Image Restoration (NLRN)|[NIPS18](https://papers.nips.cc/paper/7439-non-local-recurrent-network-for-image-restoration.pdf)|[Tensorflow](https://github.com/Ding-Liu/NLRN)| Non-local, Recurrent |
+|Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution (SRCliqueNet)|[NIPS18](https://arxiv.org/abs/1809.04508)|-| Wavelet |
+|FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising (FFDNet)|[TIP18](https://ieeexplore.ieee.org/document/8365806/)|[Matlab](https://github.com/cszn/FFDNet)| Conditional denoise|
+|Multi-Memory Convolutional Neural Network for Video Super-Resolution (MMCNN)|[TIP18](https://ieeexplore.ieee.org/document/8579237/)|[Tensorflow](https://github.com/psychopa4/MMCNN)| Multi-Memory CNN|
+|Toward Convolutional Blind Denoising of Real Photographs (CBDNet)|[arXiv](https://arxiv.org/abs/1807.04686)|[Matlab](https://github.com/GuoShi28/CBDNet)| Blind-denoise |
+|Learning for Video Super-Resolution through HR Optical Flow Estimation (SOFVSR)|[ACCV18](http://arxiv.org/abs/1809.08573)|[PyTorch](https://github.com/LongguangWang/SOF-VSR)| VideoSR |
+|ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks (ESRGAN)|[ECCVW18](http://arxiv.org/abs/1809.00219)|[PyTorch](https://github.com/xinntao/ESRGAN)|1st place PIRM 2018|
+|Temporally Coherent GANs for Video Super-Resolution (TecoGAN)|[arXiv](http://arxiv.org/abs/1811.09393)|[Tensorflow](https://github.com/thunil/TecoGAN)| VideoSR GAN|
+|Recurrent Back-Projection Network for Video Super-Resolution (RBPN)|[CVPR19](https://arxiv.org/abs/1903.10128)|[PyTorch](https://github.com/alterzero/RBPN-PyTorch)| VideoSR |
+|Fast Spatio-Temporal Residual Network for Video Super-Resolution (FSTRN)|[CVPR19](https://arxiv.org/pdf/1904.02870.pdf)|-| Fast VideoSR |
+|Meta-SR: A Magnification-Arbitrary Network for Super-Resolution (Meta-SR)|[CVPR19](https://arxiv.org/pdf/1903.00875.pdf)|-| Meta SR |
+|Feedback Network for Image Super-Resolution (SRFBN)|[CVPR19](https://arxiv.org/pdf/1903.09814.pdf)|[PyTorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback |
+|Learning Parallax Attention for Stereo Image Super-Resolution (PASSRnet)|[CVPR19](https://arxiv.org/pdf/1903.05784.pdf)|[PyTorch](https://github.com/LongguangWang/PASSRnet)| Parallax-attention |
 
 \*The 1st repo is by paper author.
 
@@ -82,4 +82,4 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |General-100|Test|100|[website](http://mmlab.ie.cuhk.edu.hk/projects/FSRCNN.html/)|Chao Dong|
 
 Other open datasets:
-[Kaggle](https://www.kaggle.com/datasets),[ImageNet](http://www.image-net.org/),[COCO](http://cocodataset.org/)
+[Kaggle](https://www.kaggle.com/datasets), [ImageNet](http://www.image-net.org/), [COCO](http://cocodataset.org/)
