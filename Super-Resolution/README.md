@@ -8,11 +8,11 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |:-----|:---------|:-----|:-------|
 |SRCNN|[ECCV14](https://arxiv.org/abs/1501.00092)|[Keras](https://github.com/qobilidop/srcnn)| 1st DL SR |
 |RAISR|[arXiv](https://arxiv.org/abs/1606.01299)|-|| Google, Pixel 3 |
-|SelfExSR|[CVPR15](http://vision.ai.illinois.edu/publications/huangcvpr2015.pdf)|-|[Matlab](https://github.com/jiaming-wang/Personal-Summarize/tree/master/Matlab-code/SelfExSR)| Without training data |
+|SelfExSR|[CVPR15](http://vision.ai.illinois.edu/publications/huangcvpr2015.pdf)|[Matlab](https://github.com/jiaming-wang/Personal-Summarize/tree/master/Matlab-code/SelfExSR)| Without training data |
 |ESPCN|[CVPR16](https://arxiv.org/abs/1609.05158)|[Keras](https://github.com/qobilidop/srcnn)| Real time |
 |VDSR|[CVPR16](https://arxiv.org/abs/1511.04587)|[Caffe](https://github.com/huangzehao/caffe-vdsr)| Deep, Residual |
-|DRCN|[CVPR16](https://arxiv.org/abs/1511.04491)|-| Recurrent ||
-|PLSR|[ECCV16](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)|[Torch](https://github.com/jcjohnson/fast-neural-style)| 1st Perceptual Loss ||
+|DRCN|[CVPR16](https://arxiv.org/abs/1511.04491)|-| Recurrent |
+|PLSR|[ECCV16](https://cs.stanford.edu/people/jcjohns/papers/eccv16/JohnsonECCV16.pdf)|[Torch](https://github.com/jcjohnson/fast-neural-style)| 1st Perceptual Loss |
 |DRRN|[CVPR17](http://cvlab.cse.msu.edu/pdfs/Tai_Yang_Liu_CVPR2017.pdf)|[Caffe](https://github.com/tyshiwo/DRRN_CVPR17), [PyTorch](https://github.com/jt827859032/DRRN-pytorch)| Recurrent |
 |LapSRN|[CVPR17](http://vllab.ucmerced.edu/wlai24/LapSRN/)|[Matlab](https://github.com/phoenix104104/LapSRN)| Huber loss |
 |EDSR|[CVPR17](https://arxiv.org/abs/1707.02921)|[PyTorch](https://github.com/thstkdgus35/EDSR-PyTorch)| NTIRE17 Champion |
