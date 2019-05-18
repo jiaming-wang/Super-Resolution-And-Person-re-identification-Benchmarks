@@ -51,6 +51,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Meta-SR: A Magnification-Arbitrary Network for Super-Resolution (Meta-SR)|[CVPR19](https://arxiv.org/pdf/1903.00875.pdf)|-| Meta SR |
 |Feedback Network for Image Super-Resolution (SRFBN)|[CVPR19](https://arxiv.org/pdf/1903.09814.pdf)|[PyTorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback |
 |Learning Parallax Attention for Stereo Image Super-Resolution (PASSRnet)|[CVPR19](https://arxiv.org/pdf/1903.05784.pdf)|[PyTorch](https://github.com/LongguangWang/PASSRnet)| Parallax-attention |
+|Image Super-Resolution by Neural Texture Transfer (SRNTT)|[CVPR19](http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/cvpr2019_final.pdf)|[TensorFlow](https://github.com/ZZUTK/SRNTT)| Parallax-attention |
 
 \*The 1st repo is by paper author.
 
