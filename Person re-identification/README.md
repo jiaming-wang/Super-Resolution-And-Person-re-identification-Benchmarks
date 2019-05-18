@@ -38,7 +38,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Name|Usage|#|Site|Comments|
 |:---|:----|:----|:---|:-----|
 |Market1501|Train/Test|1501|[website](http://www.liangzheng.com.cn/Project/project_reid.html)|[Liang Zheng](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)|
-|CUHK01|Train/Test|971|[website](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)|[CUHK](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)|
+|CUHK01|Train/Test|971|[website](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)|[CUHK](https://sci-hub.tw/10.1007/978-3-642-37331-2_3)|
 |CUHK02|Train/Test|1,816|[website](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)|[CUHK](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Li_Locally_Aligned_Feature_2013_CVPR_paper.pdf)|
 |CUHK03|Train/Test|1501|[website](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)|[CUHK](https://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Li_DeepReID_Deep_Filter_2014_CVPR_paper.pdf)|
 |PRID|Train/Test|43|[website](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/prid11/)|[Martin Hirzer](https://files.icg.tugraz.at/seafhttp/files/410a1bd2-b9ba-4e5d-a6e3-364e40829988/hirzer_scia_2011.pdf)|
