@@ -6,6 +6,8 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
+|Learning to Reduce Dual-level Discrepancy for Infrared-Visible Person Re-identification|[CVPR19](https://www.csie.ntu.edu.tw/~cyy/publications/papers/Wang2019LRD.pdf)|-| |
+|Joint Discriminative and Generative Learning for Person Re-identification|[CVPR19](https://arxiv.org/abs/1904.07223)|-| |
 |(MAR) Unsupervised Person Re-identification by Soft Multilabel Learning|[CVPR19](https://arxiv.org/pdf/1903.06325)|[PyTorch](https://github.com/KovenYu/MAR)| |
 |(VPM) Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification|[CVPR19](https://arxiv.org/abs/1904.00537)|-| |
 |(ECN) Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification|[CVPR19](https://arxiv.org/abs/1904.01990)|[PyTorch](https://github.com/zhunzhong07/ECN)| |
