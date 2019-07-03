@@ -44,6 +44,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Name|Usage|#|Site|Comments|
 |:---|:----|:----|:---|:-----|
+|MSMT17|Train/Test|4101|[website](http://www.pkuvmc.com/publications/msmt17.html)|[Longhui Wei](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)|
 |Market1501|Train/Test|1501|[website](http://www.liangzheng.com.cn/Project/project_reid.html)|[Liang Zheng](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)|
 |DukeMTMC-reID|Train/Test|1812|[website](https://github.com/layumi/DukeMTMC-reID_evaluation)|[Zhedong Zheng](https://sci-hub.tw/10.1109/iccv.2017.405)|
 |CUHK01|Train/Test|971|[website](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)|[CUHK](https://sci-hub.tw/10.1007/978-3-642-37331-2_3)|
