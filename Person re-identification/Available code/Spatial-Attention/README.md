@@ -16,6 +16,7 @@ the ablation study. Then the total loss is the summation over all deep supervisi
 
 # Preparation
 Prerequisite: Pytorch 0.4.0
+
 ## Dataset
 [Market-1501](https://pan.baidu.com/s/1qlCJEdEY7UueGL-VdhH6xw) (password: 1ri5)
   
@@ -49,8 +50,6 @@ Besides the ones in the paper, we uploaded another example for the ablation of t
 ```
 python main.py -d market -b 48 -j 4 --epochs 60 --log logs/market/ --feature 256 --height 384 --width 128 --combine-trainval --step-size 40 --data-dir Market-1501
 ```
-## Classification:
-### Cifar 100:
 
 # Citiaion
 
