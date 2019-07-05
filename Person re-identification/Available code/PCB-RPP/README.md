@@ -1,5 +1,7 @@
 # Part-based Convolutional Baseline for Person Retrieval and the Refined Part Pooling
 
+The source code is provided by https://github.com/syfafterzy/PCB_RPP_for_reID.
+
 Code for the paper [Beyond Part Models: Person Retrieval with Refined Part Pooling (and A Strong Convolutional Baseline)](https://arxiv.org/pdf/1711.09349.pdf). 
 
 **This code is ONLY** released for academic use.
