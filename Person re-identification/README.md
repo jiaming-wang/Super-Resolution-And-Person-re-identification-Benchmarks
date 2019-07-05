@@ -11,6 +11,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(MAR) Unsupervised Person Re-identification by Soft Multilabel Learning|[CVPR19](https://arxiv.org/pdf/1903.06325)|[PyTorch](https://github.com/KovenYu/MAR)| |
 |(VPM) Perceive Where to Focus: Learning Visibility-aware Part-level Features for Partial Person Re-identification|[CVPR19](https://arxiv.org/abs/1904.00537)|-| |
 |(ECN) Invariance Matters: Exemplar Memory for Domain Adaptive Person Re-identification|[CVPR19](https://arxiv.org/abs/1904.01990)|[PyTorch](https://github.com/zhunzhong07/ECN)| |
+|Parameter-Free Spatial Attention Network for Person Re-Identification |[arxiv2018](https://arxiv.org/pdf/1811.12150.pdf)|[PyTorch](https://github.com/HRanWang/Spatial-Attention)| |
 |Part-Aligned Bilinear Representations for Person Re-Identification |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/yuminsuh/part_bilinear_reid)| |
 |Beyond Part Models:Person Retrieval with Refined Part Pooling |[ECCV18](http://openaccess.thecvf.com/content_ECCV_2018/papers/Yumin_Suh_Part-Aligned_Bilinear_Representations_ECCV_2018_paper.pdf)|[PyTorch](https://github.com/layumi/Person_reID_baseline_pytorch)| Part-level |
 |(PTGAN) Person Transfer GAN to Bridge Domain Gap for Person Re-Identification|[CVPR18](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)|[Tensorflow](https://github.com/JoinWei-PKU/PTGAN)| |
@@ -44,6 +45,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Name|Usage|#|Site|Comments|
 |:---|:----|:----|:---|:-----|
+|MSMT17|Train/Test|4101|[website](http://www.pkuvmc.com/publications/msmt17.html)|[Longhui Wei](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Person_Transfer_GAN_CVPR_2018_paper.pdf)|
 |Market1501|Train/Test|1501|[website](http://www.liangzheng.com.cn/Project/project_reid.html)|[Liang Zheng](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Zheng_Scalable_Person_Re-Identification_ICCV_2015_paper.pdf)|
 |DukeMTMC-reID|Train/Test|1812|[website](https://github.com/layumi/DukeMTMC-reID_evaluation)|[Zhedong Zheng](https://sci-hub.tw/10.1109/iccv.2017.405)|
 |CUHK01|Train/Test|971|[website](http://www.ee.cuhk.edu.hk/~xgwang/CUHK_identification.html)|[CUHK](https://sci-hub.tw/10.1007/978-3-642-37331-2_3)|
