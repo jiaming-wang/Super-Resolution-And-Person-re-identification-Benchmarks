@@ -1,5 +1,7 @@
 # ReID_PCB
 
+The source code is provided by https://github.com/Yououko/ReID_PCB.
+
 Implementation of PCB model of paper: *Beyond Part Models: Person Retrieval with Refined Part Pooling.*
 
 Using Python3.6 and **Pytorch 4.0**.
