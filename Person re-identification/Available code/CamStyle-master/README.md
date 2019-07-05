@@ -1,6 +1,8 @@
 # Camera Style Adaptation for Person Re-identification
 ================================================================
 
+The source code is provided by https://github.com/zhunzhong07/CamStyle.
+
 Code for Camera Style Adaptation for Person Re-identification (CVPR 2018). 
 
 ### Preparation
