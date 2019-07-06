@@ -51,7 +51,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks |[CVPR16](https://arxiv.org/abs/1511.04587)|[Caffe](https://github.com/huangzehao/caffe-vdsr)| Deep, Residual |
 |(ESPCN) Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network |[CVPR16](https://arxiv.org/abs/1609.05158)|[Keras](https://github.com/qobilidop/srcnn)| Real time |
 |(SelfExSR) Single Image Super-resolution from Transformed Self-Exemplars|[CVPR15](http://vision.ai.illinois.edu/publications/huangcvpr2015.pdf)|[Matlab](https://github.com/jiaming-wang/Personal-Summarize/tree/master/Matlab-code/SelfExSR)| Without training data |
-|(RAISR) RAISR: Rapid and Accurate Image Super Resolution|[arXiv](https://arxiv.org/abs/1606.01299)|-|| Google, Pixel 3 |
+|(RAISR) RAISR: Rapid and Accurate Image Super Resolution|[arXiv](https://arxiv.org/abs/1606.01299)|-| Google, Pixel 3 |
 |(SRCNN) Image Super-Resolution Using Deep Convolutional Networks|[ECCV14](https://arxiv.org/abs/1501.00092)|[Keras](https://github.com/qobilidop/srcnn)| 1st DL SR |
 
 \*The 1st repo is by paper author.
