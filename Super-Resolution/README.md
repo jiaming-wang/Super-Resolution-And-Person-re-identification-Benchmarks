@@ -6,6 +6,11 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
+|(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution |
+|(MCAN) A Matrix-in-matrix Neural Network for Image Super Resolution| [arXiv](https://arxiv.org/pdf/1903.07949.pdf)|[Pytorch](https://github.com/macn3388/MCAN)|Matrix-in-matrix CAN, Lightweight|
+|(ResLF) Residual Networks for Light Field Image Super-Resolution| [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Residual_Networks_for_Light_Field_Image_Super-Resolution_CVPR_2019_paper.pdf)||Light field |
+|(CameraSR) Camera Lens Super-Resolution| [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Camera_Lens_Super-Resolution_CVPR_2019_paper.pdf)||Realistic image SR |
+|(RawSR) Towards Real Scene Super-Resolution with Raw Images| [CVPR19](https://arxiv.org/pdf/1905.12156.pdf)| [TensorFlow](https://drive.google.com/file/d/1yvCceNAgt4UsxZXahPFBkuL1JXyfgr8B/view) | Real Scene Super-Resolution, Raw Images |
 |(SRNTT) Image Super-Resolution by Neural Texture Transfer |[CVPR19](http://web.eecs.utk.edu/~zzhang61/project_page/SRNTT/cvpr2019_final.pdf)|[TensorFlow](https://github.com/ZZUTK/SRNTT)| Texture Transfer |
 |(PASSRnet) Learning Parallax Attention for Stereo Image Super-Resolution |[CVPR19](https://arxiv.org/pdf/1903.05784.pdf)|[PyTorch](https://github.com/LongguangWang/PASSRnet)| Parallax-attention |
 |(SRFBN) Feedback Network for Image Super-Resolution |[CVPR19](https://arxiv.org/pdf/1903.09814.pdf)|[PyTorch](https://github.com/Paper99/SRFBN_CVPR19)| Feedback |
@@ -38,7 +43,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(DCSCN) Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network |[arXiv](https://arxiv.org/abs/1707.05425)|[Tensorflow](https://github.com/jiny2001/dcscn-super-resolution)||
 |(DnCNN) Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising |[TIP17](http://ieeexplore.ieee.org/document/7839189/)|[Matlab](https://github.com/cszn/DnCNN)| Denoise |
 |(SPMC) Detail-revealing Deep Video Super-resolution |[ICCV17](https://arxiv.org/abs/1704.02738)|[Tensorflow](https://github.com/jiangsutx/SPMC_VideoSR)| VideoSR |
-|(EnhanceNet) Single Image Super-Resolution Through Automated Texture Synthesis |[ICCV17](https://webdav.tue.mpg.de/pixel/enhancenet/files/EnhanceNet_paper.pdf)|-| Texture Synthesis |
+|(EnhanceNet) Single Image Super-Resolution Through Automated Texture Synthesis |[ICCV17](https://webdav.tue.mpg.de/pixel/enhancenet/files/EnhanceNet_paper.pdf)|Tensorflow(https://github.com/msmsajjadi/EnhanceNet-Code)| Texture Synthesis |
 |(SRDenseNet) Image Super-Resolution Using Dense Skip Connections |[ICCV17](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tong_Image_Super-Resolution_Using_ICCV_2017_paper.pdf)|[PyTorch](https://github.com/wxywhu/SRDenseNet-pytorch)| Dense |
 |(MemNet) MemNet: A Persistent Memory Network for Image Restoration |[ICCV17](https://arxiv.org/abs/1708.02209)|[Caffe](https://github.com/tyshiwo/MemNet)||
 |(VESPCN) Real-Time Video Super-Resolution with Spatio-Temporal Networks and Motion Compensation |[CVPR17](https://arxiv.org/abs/1611.05250)|-| VideoSR |
