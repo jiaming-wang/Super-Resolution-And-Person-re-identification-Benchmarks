@@ -1,3 +1,1 @@
-# 横琴项目技术储备
-
-卫星视频超分辨率/行人重识别/车辆识别
+A collection of state-of-the-art Super-Resolution/Person re-identification architectures.
