@@ -6,8 +6,10 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
+|(RankSRGAN) Deep Learning for Single Image Super-Resolution: A Brief Review| [ICCV19](https://arxiv.org/pdf/1908.06382.pdf)|[Pytorch](https://github.com/WenlongZhang0724/RankSRGAN)| Multi-rank |
 |(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution |
 |(MCAN) A Matrix-in-matrix Neural Network for Image Super Resolution| [arXiv](https://arxiv.org/pdf/1903.07949.pdf)|[Pytorch](https://github.com/macn3388/MCAN)|Matrix-in-matrix CAN, Lightweight|
+|(SAN) Second-order Attention Network for Single Image Super-resolution | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dai_Second-Order_Attention_Network_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf)|[Pytorch](https://github.com/daitao/SAN)| |
 |(ResLF) Residual Networks for Light Field Image Super-Resolution| [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Residual_Networks_for_Light_Field_Image_Super-Resolution_CVPR_2019_paper.pdf)||Light field |
 |(CameraSR) Camera Lens Super-Resolution| [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Camera_Lens_Super-Resolution_CVPR_2019_paper.pdf)||Realistic image SR |
 |(RawSR) Towards Real Scene Super-Resolution with Raw Images| [CVPR19](https://arxiv.org/pdf/1905.12156.pdf)| [TensorFlow](https://drive.google.com/file/d/1yvCceNAgt4UsxZXahPFBkuL1JXyfgr8B/view) | Real Scene Super-Resolution, Raw Images |
