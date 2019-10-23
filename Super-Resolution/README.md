@@ -7,7 +7,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |Model |Published |
 |:-----|:---------|
 |Deep Learning for Single Image Super-Resolution: A Brief Review| [TMM19](https://arxiv.org/pdf/1808.03344.pdf)|
-
+|Super-Resolution via Deep Learning| [CVPR17](https://arxiv.org/pdf/1706.09077.pdf)|
 
 ## Network list and reference (Updating)
 The hyperlink directs to paper site, follows the official codes if the authors open sources.
