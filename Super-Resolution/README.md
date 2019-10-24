@@ -33,10 +33,10 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(Meta-SR) Meta-SR: A Magnification-Arbitrary Network for Super-Resolution |[CVPR19](https://arxiv.org/pdf/1903.00875.pdf)|-| Meta SR |
 |(FSTRN) Fast Spatio-Temporal Residual Network for Video Super-Resolution |[CVPR19](https://arxiv.org/pdf/1904.02870.pdf)|-| Fast VideoSR |
 |(RBPN) Recurrent Back-Projection Network for Video Super-Resolution |[CVPR19](https://arxiv.org/abs/1903.10128)|[PyTorch](https://github.com/alterzero/RBPN-PyTorch)| VideoSR |
-|(TecoGAN) Temporally Coherent GANs for Video Super-Resolution |[arXiv](http://arxiv.org/abs/1811.09393)|[Tensorflow](https://github.com/thunil/TecoGAN)| VideoSR GAN|
+|(TecoGAN) Temporally Coherent GANs for Video Super-Resolution |[arXiv18](http://arxiv.org/abs/1811.09393)|[Tensorflow](https://github.com/thunil/TecoGAN)| VideoSR GAN|
 |(ESRGAN) ESRGAN: Enhanced Super-Resolution Generative Adversarial Networks |[ECCVW18](http://arxiv.org/abs/1809.00219)|[PyTorch](https://github.com/xinntao/ESRGAN)|1st place PIRM 2018|
 |(SOFVSR) Learning for Video Super-Resolution through HR Optical Flow Estimation |[ACCV18](http://arxiv.org/abs/1809.08573)|[PyTorch](https://github.com/LongguangWang/SOF-VSR)| VideoSR |
-|(CBDNet) Toward Convolutional Blind Denoising of Real Photographs |[arXiv](https://arxiv.org/abs/1807.04686)|[Matlab](https://github.com/GuoShi28/CBDNet)| Blind-denoise |
+|(CBDNet) Toward Convolutional Blind Denoising of Real Photographs |[arXiv18](https://arxiv.org/abs/1807.04686)|[Matlab](https://github.com/GuoShi28/CBDNet)| Blind-denoise |
 |(MMCNN) Multi-Memory Convolutional Neural Network for Video Super-Resolution |[TIP18](https://ieeexplore.ieee.org/document/8579237/)|[Tensorflow](https://github.com/psychopa4/MMCNN)| Multi-Memory CNN|
 |(FFDNet) FFDNet: Toward a Fast and Flexible Solution for CNN-Based Image Denoising |[TIP18](https://ieeexplore.ieee.org/document/8365806/)|[Matlab](https://github.com/cszn/FFDNet)| Conditional denoise|
 |(SRCliqueNet) Joint Sub-bands Learning with Clique Structures for Wavelet Domain Super-Resolution |[NIPS18](https://arxiv.org/abs/1809.04508)|-| Wavelet |
@@ -56,7 +56,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(SRMD) Learning a Single Convolutional Super-Resolution Network for Multiple Degradations |[CVPR18](https://arxiv.org/abs/1712.06116)|[Matlab](https://github.com/cszn/SRMD)| Denoise/Deblur/SR |
 |(RDN) Residual Dense Network for Image Super-Resolution|[CVPR18](https://arxiv.org/abs/1802.08797)|[Torch](https://github.com/yulunzhang/RDN)| Deep, BI-BD-DN |
 |(IDN) Fast and Accurate Single Image Super-Resolution via Information Distillation Network |[CVPR18](https://arxiv.org/abs/1803.09454)|[Caffe](https://github.com/Zheng222/IDN-Caffe)| Fast |
-|(DCSCN) Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network |[arXiv](https://arxiv.org/abs/1707.05425)|[Tensorflow](https://github.com/jiny2001/dcscn-super-resolution)||
+|(DCSCN) Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network |[arXiv17](https://arxiv.org/abs/1707.05425)|[Tensorflow](https://github.com/jiny2001/dcscn-super-resolution)||
 |(DnCNN) Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising |[TIP17](http://ieeexplore.ieee.org/document/7839189/)|[Matlab](https://github.com/cszn/DnCNN)| Denoise |
 |(SPMC) Detail-revealing Deep Video Super-resolution |[ICCV17](https://arxiv.org/abs/1704.02738)|[Tensorflow](https://github.com/jiangsutx/SPMC_VideoSR)| VideoSR |
 |(EnhanceNet) Single Image Super-Resolution Through Automated Texture Synthesis |[ICCV17](https://webdav.tue.mpg.de/pixel/enhancenet/files/EnhanceNet_paper.pdf)|[Tensorflow](https://github.com/msmsajjadi/EnhanceNet-Code)| Texture Synthesis |
@@ -71,8 +71,8 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(DRCN) Deeply-Recursive Convolutional Network for Image Super-Resolution |[CVPR16](https://arxiv.org/abs/1511.04491)|-| Recurrent |
 |(VDSR) Accurate Image Super-Resolution Using Very Deep Convolutional Networks |[CVPR16](https://arxiv.org/abs/1511.04587)|[Caffe](https://github.com/huangzehao/caffe-vdsr)| Deep, Residual |
 |(ESPCN) Real-Time Single Image and Video Super-Resolution Using an Efficient Sub-Pixel Convolutional Neural Network |[CVPR16](https://arxiv.org/abs/1609.05158)|[Keras](https://github.com/qobilidop/srcnn)| Real time |
+|(RAISR) RAISR: Rapid and Accurate Image Super Resolution|[arXiv16](https://arxiv.org/abs/1606.01299)|-| Google, Pixel 3 |
 |(SelfExSR) Single Image Super-resolution from Transformed Self-Exemplars|[CVPR15](http://vision.ai.illinois.edu/publications/huangcvpr2015.pdf)|[Matlab](https://github.com/jiaming-wang/Personal-Summarize/tree/master/Matlab-code/SelfExSR)| Without training data |
-|(RAISR) RAISR: Rapid and Accurate Image Super Resolution|[arXiv](https://arxiv.org/abs/1606.01299)|-| Google, Pixel 3 |
 |(SRCNN) Image Super-Resolution Using Deep Convolutional Networks|[ECCV14](https://arxiv.org/abs/1501.00092)|[Keras](https://github.com/qobilidop/srcnn)| 1st DL SR |
 
 \*The 1st repo is by paper author.
