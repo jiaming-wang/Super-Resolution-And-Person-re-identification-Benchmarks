@@ -18,8 +18,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(SROBB) SROBB: Targeted Perceptual Loss for Single Image Super-Resolution | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf)|[Pytorch](https://github.com/qibao77/CFSNet)| |
 |(CARN) Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks | [ICCV19](https://arxiv.org/pdf/1904.06097.pdf)|[Pytorch](https://github.com/qibao77/CFSNet)| |
 |(CFSNet) CFSNet: Toward a Controllable Feature Space for Image Restoration | [ICCV19](https://arxiv.org/pdf/1904.00634.pdf)|[Pytorch](https://github.com/qibao77/CFSNet)| |
-|(RankSRGAN) RankSRGAN: Generative Adversarial Networks with Ranker
-for Image Super-Resolution| [ICCV19](https://arxiv.org/pdf/1908.06382.pdf)|[Pytorch](https://github.com/WenlongZhang0724/RankSRGAN)| Multi-rank |
+|(RankSRGAN) RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution| [ICCV19](https://arxiv.org/pdf/1908.06382.pdf)|[Pytorch](https://github.com/WenlongZhang0724/RankSRGAN)| Multi-rank |
 |(TENet) Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution| [arXiv19](https://arxiv.org/pdf/1905.02538.pdf)|[Pytorch](https://github.com/guochengqian/TENet)| a Joint Solution for Demosaicking, Denoising and Super-Resolution |
 |(MCAN) A Matrix-in-matrix Neural Network for Image Super Resolution| [arXiv19](https://arxiv.org/pdf/1903.07949.pdf)|[Pytorch](https://github.com/macn3388/MCAN)|Matrix-in-matrix CAN, Lightweight|
 |(OISR) ODE-inspired Network Design for Single Image Super-Resolution | [CVPR19](http://openaccess.thecvf.com/content_CVPR_2019/papers/He_ODE-Inspired_Network_Design_for_Single_Image_Super-Resolution_CVPR_2019_paper.pdf)|[Pytorch](https://github.com/HolmesShuan/OISR-PyTorch)| |
