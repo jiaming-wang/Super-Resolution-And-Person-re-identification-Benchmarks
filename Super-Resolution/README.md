@@ -15,9 +15,9 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
-|(DRLN) Densely Residual Laplacian Super-resolution| [arXiv19](https://arxiv.org/abs/1906.12021)|[Pytorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution)| Laplacian attention architecture |
-|(KMSR) Kernel Modeling Super-Resolution on Real Low-Resolution Images| [ICCV19](https://ivrlwww.epfl.ch/ruofan/project_KMSR/3508.pdf)|[Pytorch](https://github.com/saeed-anwar/DRLN)| |
-|(SROBB) SROBB: Targeted Perceptual Loss for Single Image Super-Resolution | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf)|[Pytorch](https://github.com/qibao77/CFSNet)| |
+|(DRLN) Densely Residual Laplacian Super-resolution| [arXiv19](https://arxiv.org/abs/1906.12021)|[Pytorch](https://github.com/saeed-anwar/DRLN)| Laplacian attention architecture |
+|(KMSR) Kernel Modeling Super-Resolution on Real Low-Resolution Images| [ICCV19](https://ivrlwww.epfl.ch/ruofan/project_KMSR/3508.pdf)|[Pytorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution)| |
+|(SROBB) SROBB: Targeted Perceptual Loss for Single Image Super-Resolution | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf)|[Pytorch]( )| |
 |(CARN) Evaluating Robustness of Deep Image Super-Resolution Against Adversarial Attacks | [ICCV19](https://arxiv.org/pdf/1904.06097.pdf)|[Pytorch](https://github.com/qibao77/CFSNet)| |
 |(CFSNet) CFSNet: Toward a Controllable Feature Space for Image Restoration | [ICCV19](https://arxiv.org/pdf/1904.00634.pdf)|[Pytorch](https://github.com/qibao77/CFSNet)| |
 |(RankSRGAN) RankSRGAN: Generative Adversarial Networks with Ranker for Image Super-Resolution| [ICCV19](https://arxiv.org/pdf/1908.06382.pdf)|[Pytorch](https://github.com/WenlongZhang0724/RankSRGAN)| Multi-rank |
