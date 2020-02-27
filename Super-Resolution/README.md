@@ -58,6 +58,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 |(SRMD) Learning a Single Convolutional Super-Resolution Network for Multiple Degradations |[CVPR18](https://arxiv.org/abs/1712.06116)|[Matlab](https://github.com/cszn/SRMD)| Denoise/Deblur/SR |
 |(RDN) Residual Dense Network for Image Super-Resolution|[CVPR18](https://arxiv.org/abs/1802.08797)|[Torch](https://github.com/yulunzhang/RDN)| Deep, BI-BD-DN |
 |(IDN) Fast and Accurate Single Image Super-Resolution via Information Distillation Network |[CVPR18](https://arxiv.org/abs/1803.09454)|[Caffe](https://github.com/Zheng222/IDN-Caffe)| Fast |
+|(FSRNet) FSRNet: End-to-End Learning Face Super-Resolution with Facial Priors |[CVPR18](https://arxiv.org/abs/1711.10703)|[Torch](https://github.com/tyshiwo/FSRNet)| landmark heatmap |
 |(DCSCN) Fast and Accurate Image Super Resolution by Deep CNN with Skip Connection and Network in Network |[arXiv17](https://arxiv.org/abs/1707.05425)|[Tensorflow](https://github.com/jiny2001/dcscn-super-resolution)||
 |(DnCNN) Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising |[TIP17](http://ieeexplore.ieee.org/document/7839189/)|[Matlab](https://github.com/cszn/DnCNN)| Denoise |
 |(SPMC) Detail-revealing Deep Video Super-resolution |[ICCV17](https://arxiv.org/abs/1704.02738)|[Tensorflow](https://github.com/jiangsutx/SPMC_VideoSR)| VideoSR |
