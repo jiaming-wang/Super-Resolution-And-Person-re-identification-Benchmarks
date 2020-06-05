@@ -15,6 +15,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
+|(STVSR) Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution| [CVPR2020](https://arxiv.org/pdf/2002.11616.pdf)|[Pytorch](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)|Fast, Accurate, and One-Stage |
 |(DRLN) Densely Residual Laplacian Super-resolution| [arXiv19](https://arxiv.org/abs/1906.12021)|[Pytorch](https://github.com/saeed-anwar/DRLN)| Laplacian attention architecture |
 |(KMSR) Kernel Modeling Super-Resolution on Real Low-Resolution Images| [ICCV19](https://ivrlwww.epfl.ch/ruofan/project_KMSR/3508.pdf)|[Pytorch](https://github.com/IVRL/Kernel-Modeling-Super-Resolution)| |
 |(SROBB) SROBB: Targeted Perceptual Loss for Single Image Super-Resolution | [ICCV19](https://arxiv.org/pdf/1908.07222.pdf)|[Pytorch]( )| |
