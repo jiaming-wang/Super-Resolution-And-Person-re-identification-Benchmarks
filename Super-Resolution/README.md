@@ -15,6 +15,7 @@ The hyperlink directs to paper site, follows the official codes if the authors o
 
 |Model |Published |Code* |Keywords|
 |:-----|:---------|:-----|:-------|
+|(GCDN) Deep Graph-Convolutional Image Denoising| [ICIP2020](https://arxiv.org/abs/1907.08448)|[Tensorflow ](https://github.com/diegovalsesia/gcdn)|Graph CNN|
 |(DRN) Closed-loop Matters: Dual Regression Networks for Single Image Super-Resolution| [CVPR2020](https://arxiv.org/pdf/2003.07018.pdf)|[Pytorch](https://github.com/guoyongcs/DRN)|Closed-loop|
 |(ZSSR) Meta-Transfer Learning for Zero-Shot Super-Resolution| [CVPR2020](https://arxiv.org/pdf/2002.12213.pdf)|[Tensorflow](https://github.com/JWSoh/MZSR)|zero-shot|
 |(STVSR) Zooming Slow-Mo: Fast and Accurate One-Stage Space-Time Video Super-Resolution| [CVPR2020](https://arxiv.org/pdf/2002.11616.pdf)|[Pytorch](https://github.com/Mukosame/Zooming-Slow-Mo-CVPR-2020)|Fast, Accurate, and One-Stage |
